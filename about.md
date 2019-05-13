@@ -4,11 +4,18 @@ title: About
 permalink: /about/
 ---
 
-Welcome to My Blog. Here I would share all my learning into penetration testing and all the resources would be update here. 
+### Welcome to My Blog. 
 
-Resources Links:
+I am Jia Cheng Ong, or you can call Ivan. Currently enrolled in Diploma of Software Development and cyber security with Coder Academy. 
 
-1. https://www.kali.org/downloads/
+In this blog, I would share some of my journey in Coder Academy and knowledge of penetration testing.
 
 
-[jekyll-organization]: https://github.com/jekyll
+If you would like to contact me, do direct message me on linkedin or email me at email below:
+
+Linkedin_Profile: https://www.linkedin.com/in/jia-cheng-ong/
+
+Email: Jiacheng.ong96@gmail.com
+
+
+
